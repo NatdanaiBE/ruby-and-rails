@@ -1,0 +1,1 @@
+File.write('IKNOW.txt', File.read('IDONTKNOW.txt'))

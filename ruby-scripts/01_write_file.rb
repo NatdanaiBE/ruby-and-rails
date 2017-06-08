@@ -1,0 +1,1 @@
+File.write('IDONTKNOW.txt', 'I\'m an angel')
